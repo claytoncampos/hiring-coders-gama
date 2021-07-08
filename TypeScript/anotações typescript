@@ -1,0 +1,17 @@
+instalar o typescript global
+sudo npm install -g typescript
+
+iniciar configuração typescript no projeto
+dentro da pasta
+tsc --init
+
+depois comando tsc
+vai compilar para js
+
+targe es5 funciona em quase todos brownser
+
+es6 ou 7 ou 7 pode ter b.o nos brownser
+
+recomendado targe ES5
+
+
